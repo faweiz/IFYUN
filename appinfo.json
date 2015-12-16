@@ -9,8 +9,8 @@
     "resources": {
         "media": [
             {
-                "file": "images/yun.png",
                 "menuIcon": true,
+                "file": "images/yun.png",
                 "name": "IMAGE_MENU_ICON",
                 "targetPlatforms": null,
                 "type": "png-trans"
