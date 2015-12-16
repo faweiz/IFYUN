@@ -3,16 +3,16 @@
     "capabilities": [
         "configurable"
     ],
-    "companyName": "faweiz@gmail.com",
+    "companyName": "faweiz",
     "longName": "ifYun",
     "projectType": "native",
     "resources": {
         "media": [
             {
+                "file": "images/yun.png",
                 "menuIcon": true,
-                "type": "png",
                 "name": "IMAGE_MENU_ICON",
-                "file": "images/yun.png"
+                "type": "png"
             },
             {
                 "file": "images/menu_yes.png",
