@@ -25,17 +25,16 @@
     "resources": {
         "media": [
             {
+                "menuIcon": true,
+                "type": "png",
+                "name": "IMAGE_MENU_ICON",
+                "file": "images/yun.png"
+            },
+            {
                 "file": "images/flourish.png",
                 "name": "IMAGE_FLOURISH",
                 "targetPlatforms": null,
                 "type": "bitmap"
-            },
-            {
-                "file": "images/yun.png",
-                "menuIcon": true,
-                "name": "IMAGE_MENU_ICON",
-                "targetPlatforms": null,
-                "type": "png-trans"
             },
             {
                 "file": "images/menu_yes.png",
