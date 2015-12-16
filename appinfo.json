@@ -25,16 +25,10 @@
     "resources": {
         "media": [
             {
+                "file": "images/yun.png",
                 "menuIcon": true,
-                "type": "png",
                 "name": "IMAGE_MENU_ICON",
-                "file": "images/yun.png"
-            },
-            {
-                "file": "images/flourish.png",
-                "name": "IMAGE_FLOURISH",
-                "targetPlatforms": null,
-                "type": "bitmap"
+                "type": "png"
             },
             {
                 "file": "images/menu_yes.png",
@@ -45,6 +39,12 @@
             {
                 "file": "images/menu_no.png",
                 "name": "IMAGE_MENU_NO",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/flourish.png",
+                "name": "IMAGE_FLOURISH",
                 "targetPlatforms": null,
                 "type": "bitmap"
             }
