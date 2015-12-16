@@ -21,7 +21,7 @@
         "configurable"
     ],
     "companyName": "faweiz@gmail.com",
-    "longName": "PebbYun",
+    "longName": "ifYun",
     "projectType": "native",
     "resources": {
         "media": [
@@ -52,7 +52,7 @@
         ]
     },
     "sdkVersion": "3",
-    "shortName": "PebbYun",
+    "shortName": "ifYun",
     "targetPlatforms": [
         "aplite",
         "basalt",
