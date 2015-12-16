@@ -1,0 +1,66 @@
+{
+    "appKeys": {
+        "ctrl": 13,
+        "fire": 14,
+        "menuName1": 1,
+        "menuName10": 10,
+        "menuName2": 2,
+        "menuName3": 3,
+        "menuName4": 4,
+        "menuName5": 5,
+        "menuName6": 6,
+        "menuName7": 7,
+        "menuName8": 8,
+        "menuName9": 9,
+        "menuToggle": 11,
+        "turnon": 15,
+        "version": 12
+    },
+    "capabilities": [
+        "configurable"
+    ],
+    "companyName": "faweiz",
+    "longName": "ifYun",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/flourish.png",
+                "name": "IMAGE_FLOURISH",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/yun.png",
+                "menuIcon": true,
+                "name": "IMAGE_MENU_ICON",
+                "targetPlatforms": null,
+                "type": "png-trans"
+            },
+            {
+                "file": "images/menu_yes.png",
+                "name": "IMAGE_MENU_YES",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/menu_no.png",
+                "name": "IMAGE_MENU_NO",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "ifYun",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "4e7710ca-b42b-4f53-93a7-6ce1fafdd114",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
