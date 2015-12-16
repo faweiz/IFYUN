@@ -4,7 +4,7 @@
  * Constants
  */
 function mConst() {
-  var urlPrefix = "http://faweiz.github.io/PebbYun/";
+  var urlPrefix = "http://faweiz.github.io/ifYun/";
   return {
     limit : 60,
     divisor : 600000,
