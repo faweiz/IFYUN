@@ -10,9 +10,9 @@
         "media": [
             {
                 "menuIcon": true,
-                "type": "png"
+                "type": "png",
                 "name": "IMAGE_MENU_ICON",
-                "file": "images/yun.png",
+                "file": "images/yun.png"
             },
             {
                 "file": "images/menu_yes.png",
