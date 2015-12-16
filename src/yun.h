@@ -93,7 +93,7 @@ enum CtrlValues {
 #define VERSION_SEND_SLOW_INTERVAL_MS (60*1000)
 
 #define NO_CONFIG_1 "Configure on your"
-#define NO_CONFIG_2 "Phone"
+#define NO_CONFIG_2 "phone"
 #define NO_BLUETOOTH "No bluetooth"
 #define TEXT_SENDING "Sending..."
 #define TEXT_FAILED "FAILED!"
