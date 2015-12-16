@@ -10,7 +10,7 @@
         "media": [
             {
                 "menuIcon": true,
-                "type": "png-trans",
+                "type": "png",
                 "name": "IMAGE_MENU_ICON",
                 "file": "images/yun.png"
             },
